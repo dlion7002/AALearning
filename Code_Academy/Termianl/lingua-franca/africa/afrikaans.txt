@@ -1,2 +1,0 @@
-echo welkom by die Lingua Franca vertaaldienste
-
