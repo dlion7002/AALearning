@@ -1,2 +1,3 @@
 # AAprojects
-Begginer projects 
+
+Begginer projects to learn new technologies
