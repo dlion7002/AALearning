@@ -1,3 +1,3 @@
-# AAprojects
+# AALearnig
 
-Begginer projects to learn.
+Learning material and projects.
