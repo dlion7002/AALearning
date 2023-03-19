@@ -1,0 +1,35 @@
+p {
+    /* hex example: */
+    color: #1100ff;
+    /* rgb example: */
+    color: rgb(100, 0, 127);
+    /* hsl example: */
+    color: hsl(15, 82%, 56%);
+    /* color name example: */
+    background-color: purple;
+  }
+
+p {
+    
+    font-family: DejaVu Sans, Arial, sans-serif; /* If browsers dont find one it will use the next one */
+
+    font-size: 22px;
+
+    font-weight: bold; /* Boldness of text words or goes from 1 and 1000 */
+
+    text-align: center;
+}
+
+img {
+    height: auto;
+                    /* Always add to ensure page loads correctly */
+    width: 500px;
+
+}
+
+.inherit_properties {
+    color:aliceblue;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    /*etc*/
+}

@@ -1,0 +1,30 @@
+/* Selectors */
+
+* {
+  color:purple;  /* Universal selector */
+}
+
+div {
+    color:white; /* Type selector (Html elements with <div> */
+}
+
+.text-type {
+    color:aliceblue; /* Class selectors (Html class="text-type"), can add multiple classes*/
+}
+
+.text-type,
+.text-type2 {
+    background-color: red; /* Grouping selectors*/
+}
+
+.text-type.header {
+    background-color: purple; /* To target selectors with various specific classes */
+}
+
+#title {
+    background-color: black; /* ID Selectors  (Html id="title"), use sparingly - elements can only have one ID*/
+}
+
+.ancestor .child {
+    animation-name: inherit; /* Combinators*/ /* Only selects the child class if it has an ancestor*/
+}
