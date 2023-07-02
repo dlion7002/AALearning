@@ -1,0 +1,19 @@
+p {
+    background-color: #EA5ADF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#num {
+    color: rgb(18, 18, 145);
+    font-size: 36px;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: #06DBB4;
+    font-size: 24px;
+    font-weight: bold;
+}
